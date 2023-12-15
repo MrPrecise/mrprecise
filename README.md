@@ -1,5 +1,5 @@
 ## 🫡 About me
-- 🌍 Borned in Norway
+- 🌍 Borned In Norway
 - 🧑‍🎓 Computer Science Bachelor Degree
-- 🏢 Working for a Datacenter
+- 🏢 Working For A Datacenter
 - 💻 Prefered Languages: *Python, JavaScript, Java, C#, C++ and HTML/CSS* 
